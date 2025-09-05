@@ -9,9 +9,6 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "dependencies": {
-    "@sentry/browser": "5.7.1"
-  },
   "devDependencies": {
     "tinycolor2": "1.4.1",
     "@fortawesome/fontawesome-free": "5.7.2",
