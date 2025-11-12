@@ -287,7 +287,6 @@ def download():
 
 if __name__ == '__main__':
     init_db()
-    
     # vulnerability: running in debug mode
     # vulnerability: binding to all interfaces
     # vulnerability: no SSL/TLS
